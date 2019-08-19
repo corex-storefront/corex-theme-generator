@@ -1,5 +1,5 @@
 {
-  "name": "tachyons-generator",
+  "name": "corex-theme-generator",
   "description": "Generate a custom Tachyons build with a json configuration",
   "author": "John Otander",
   "version": "0.23.0",
@@ -15,7 +15,7 @@
     "test": "ava -v --timeout=20s",
     "docs": "node docs/generate"
   },
-  "repository": "tachyons-css/tachyons-generator",
+  "repository": "corex-storefront/corex-theme-generator",
   "keywords": [
     "tachyons",
     "css",
