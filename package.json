@@ -9,7 +9,8 @@
     "config.js",
     "lib",
     "docs",
-    "partials"
+    "partials",
+    "runtime"
   ],
   "scripts": {
     "test": "ava -v --timeout=20s",
