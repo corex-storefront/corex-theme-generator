@@ -10,7 +10,7 @@
     "lib",
     "docs",
     "partials",
-    "runtime"
+    "runtime.js"
   ],
   "scripts": {
     "test": "ava -v --timeout=20s",
